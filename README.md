@@ -52,7 +52,7 @@ Ecommerce-app/
         └── pages/         # Add, List, Orders
 ```
 
-> Folder names may differ slightly in your copy. Adjust the paths above if needed.
+
 
 ## Getting Started
 
